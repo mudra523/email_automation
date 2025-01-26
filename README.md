@@ -8,9 +8,9 @@
 #### Request Body:
 ```json
 {
-  "recipient": "xyx2@gmail.com",
+  "recipient": "test@gmail.com",
   "msgBody": "hello",
-  "subject": "Interest in Software Development Engineer Role at Your Organization",
-  "attachment": "/Users/mudrakoradia/Downloads/STUDY/Resume/New Helix Resume/Mudra_Koradia_Resume.pdf",
-  "csv": "/Users/mudrakoradia/Downloads/Book1.csv"
+  "subject": "hello",
+  "attachment": "test.pdf",
+  "csv": "test.csv"
 }
